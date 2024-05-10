@@ -45,6 +45,7 @@ assign out = counter;
 
 endmodule
 # output
+![8bitupdown](https://github.com/lathika024/8BIT_SYNCHRONOUS_UP-DOWN_COUNTER/assets/165888553/af03e678-7715-4ade-b2ef-a9465fd865fe)
 
 
 # result
